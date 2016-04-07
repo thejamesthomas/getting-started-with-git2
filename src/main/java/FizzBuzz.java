@@ -3,8 +3,8 @@ import java.util.HashMap;
 public class FizzBuzz {
     public String parse(Integer i) {
         HashMap<Integer, String> maps = new HashMap<Integer, String>();
-        maps.put(3, "Fizz");
-        maps.put(5, "Buzz");
+        maps.put(3, "Fizzy");
+        maps.put(5, "Buzzy");
 
         StringBuffer sb = new StringBuffer();
         for (Integer key : maps.keySet()) {
