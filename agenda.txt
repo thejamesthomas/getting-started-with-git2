@@ -1,0 +1,13 @@
+Standard Use Case
+- Fork
+- Clone
+- Commit
+- Push
+- Pull Request
+
+Advanced Use Case
+- Branch
+- Commit
+- Push
+- Pull Request
+- Deal with Merge Conflict
